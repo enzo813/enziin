@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+body{
+    background-color: black;
+    color: white;
+}
+h1{
+    text-decoration-line: underline;
+}
+strong{
+    color: rgb(0, 255, 0);
+}
+main{
+    display: flex;
+    padding: 0 150px 0px 150px;
+}
+p{
+    margin: 40px 0px 200px 0px;
+    font-size: 38px;
+}
+header, footer{
+    height: 200px;
+}
