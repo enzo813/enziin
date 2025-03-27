@@ -23,4 +23,45 @@ p{
 }
 header, footer{
     height: 200px;
+    
 }
+/*button{
+    background-color: #22D4FD;
+    width: 250px;
+    height: 50px;
+    border-radius: 15px;
+    border-color: #22D4FD;
+    margin: 40px 59px 0 0;
+
+}*/
+
+.butao1{
+    background-color: white;
+    width: 250px;
+    height: 50px;
+    border-radius: 15px;
+    border-color: grey;
+    margin: 40px 59px 0 0;
+}
+.butao2{
+    background-color:rgb(0, 255, 0); 
+    width: 250px;
+    height: 50px;
+    border-radius: 15px;
+    border-color: black;
+    margin: 40px 59px 0 0;
+}
+a{
+    color: #000000;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
